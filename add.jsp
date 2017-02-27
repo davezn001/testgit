@@ -22,7 +22,7 @@
 
 				<tr>
 					<td width="18%" align="center" bgColor="#f5fafe" class="ta_01">
-						商品名称：
+						PNAME：
 					</td>
 					<td class="ta_01" bgColor="#ffffff">
 						<input type="text" name="pname" value="" id="userAction_save_do_logonName" class="bg"/>
